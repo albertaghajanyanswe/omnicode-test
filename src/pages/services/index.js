@@ -1,6 +1,6 @@
 function ServicesPage() {
   return (
-    <>Services</>
+    <p className="section-title">Services</p>
   )
 }
 

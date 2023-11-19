@@ -1,6 +1,6 @@
 function AboutUsPage() {
   return (
-    <>About Us</>
+    <p className='section-title'>About Us</p>
   )
 }
 

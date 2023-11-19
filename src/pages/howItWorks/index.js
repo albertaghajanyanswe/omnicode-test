@@ -1,6 +1,6 @@
 function HowItWorksPage() {
   return (
-    <>How it works</>
+    <p className='section-title'>How it works</p>
   )
 }
 
