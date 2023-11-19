@@ -1,0 +1,67 @@
+.expert-section {
+  display: flex;
+  justify-content: space-between;
+  /* min-height: 815px; */
+  background-color: #111111;
+  display: flex;
+  padding: 112px 172px 100px 172px;
+}
+.big-text {
+  font-weight: 700;
+  font-size: 76px;
+  line-height: 70px;
+  color: white;
+  text-align: start;
+}
+
+.normal-text {
+  font-weight: 700;
+  font-size: 45.24px;
+  line-height: 48px;
+  color: white;
+  margin-top: 24px;
+  text-align: start;
+}
+.left {
+  width: 44%;
+}
+.right {
+  width: 456px;
+}
+.carusel-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid white;
+  padding: 12px 20px;
+}
+.indicator-block {
+  display: flex;
+}
+.carusel-title {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 29px;
+  color: white;
+  margin: 0;
+}
+.color1 {
+  background-color: #00f0ff;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  margin-right: 16px;
+}
+.color2 {
+  background-color: #5200ff;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  margin-right: 16px;
+}
+.color3 {
+  background-color: #ff2df7;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+}

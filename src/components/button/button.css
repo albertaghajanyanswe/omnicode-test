@@ -1,0 +1,26 @@
+.custom-btn {
+  padding: 12px 32px 12px 32px;
+  border-radius: 0;
+  min-height: 51px;
+  font-size: 16px;
+  cursor: pointer;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26.91px;
+}
+
+.primary-btn {
+  background-color: #5200FF;
+  color: white;
+  border: 1px solid #5200FF;
+}
+
+.secondary-btn {
+  background-color: rgba(17, 17, 17, 1);
+  border: 1px solid rgba(255, 255, 255, 1);
+  color: white;
+}
+
+.mr-20 {
+  margin-right: 20px;
+}

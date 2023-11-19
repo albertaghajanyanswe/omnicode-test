@@ -1,0 +1,30 @@
+.info-section {
+  display: flex;
+  justify-content: space-between;
+  padding: 79px 52px 139px 0px;
+  background-color: #111111;
+}
+.info-section_right {
+  flex-grow: 1;
+  margin-left: 58px;
+}
+.info-section_item-title {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 90px;
+  color: white;
+  text-align: start;
+  margin-top: 60px;
+}
+.info-section_item-info {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21.5px;
+  color: white;
+  text-align: start;
+  opacity: 0.8;
+}
+
+.ai {
+  color: #00F0FF;
+}

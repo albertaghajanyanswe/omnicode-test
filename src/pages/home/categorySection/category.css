@@ -1,0 +1,28 @@
+.category-section {
+  /* height: 815px; */
+  background-color : #111111;
+  padding: 0 90px;
+}
+
+.category-section-title {
+  color: white;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 90px;
+  margin: 0;
+  background-color: #111111;
+  padding: 0 0 0 32px;
+  text-align: start;
+}
+
+.flex-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.flex-wrapper .flex-item {
+  width: 33%;
+  text-align: center;
+  padding: 28px 15px;
+}

@@ -1,0 +1,36 @@
+.nav-bar-root {
+    height: 80px;
+    background-color: #232323;
+    color: white;
+}
+
+.nav-bar {
+  height: 100%;
+}
+
+.container .nav-bar-brand {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 35.88px;
+  color: white;
+}
+
+.navbar-nav .nav-bar-link {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29.9px;
+  color: white;
+}
+
+.nav-bar__toggle-btn {
+    z-index: 2;
+}
+
+.nav-bar__nav-bar-btn {
+    justify-content: flex-start;
+}
+
+.nav-bar__btn:focus-within {
+    outline: none;
+}
+
